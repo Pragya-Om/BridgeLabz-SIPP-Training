@@ -12,8 +12,5 @@ public class DivisibleBy5 {
             System.out.println("The number is not divisible by 5.");
         }
         scanner.close();
-
-        
-
     }
 }
